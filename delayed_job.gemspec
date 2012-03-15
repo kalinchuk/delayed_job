@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email    = "tobi@leetsoft.com"
   s.homepage = "http://github.com/tobi/delayed_job/tree/master"
   s.description = "Delated_job (or DJ) encapsulates the common pattern of asynchronously executing longer tasks in the background. It is a direct extraction from Shopify where the job table is responsible for a multitude of core tasks."
-  s.authors  = ["Tobias Lütke"]
+  s.authors  = ["Tobias Lutke"]
 
   # s.bindir = "bin"
   # s.executables = ["delayed_job"]
